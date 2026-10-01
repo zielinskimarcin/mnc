@@ -1,0 +1,20 @@
+project_id = "app-preview"
+
+[db.migrations]
+enabled = true
+
+[auth]
+enabled = true
+enable_anonymous_sign_ins = true
+site_url = "http://localhost:5173"
+additional_redirect_urls = ["http://localhost:5173/**", "http://127.0.0.1:5173/**"]
+
+[auth.email]
+# Supabase maps this switch to the email provider itself; disabling it also
+# rejects passwordless sign-in for the pre-created operator. The panel passes
+# shouldCreateUser=false and RLS still limits all operator data to the allowlist.
+enable_signup = true
+
+[functions.preview_run_scheduled_push]
+# Require a valid project JWT as well as PREVIEW_CRON_SECRET from the scheduler.
+verify_jwt = true

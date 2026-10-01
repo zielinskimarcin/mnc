@@ -1,0 +1,29 @@
+{
+  "slug": "canyon-demo",
+  "display_name": "Canyon Kitchen",
+  "tagline": "Made for the good part of the day.",
+  "logo_url": null,
+  "hero_image_url": null,
+  "font_preset": "rounded",
+  "colors": {
+    "background": "#FFF7EF",
+    "surface": "#FFFFFF",
+    "text": "#2E241F",
+    "muted": "#796E66",
+    "accent": "#B84D30",
+    "accentText": "#FFFFFF"
+  },
+  "categories": [
+    { "key": "plates", "label": "Plates" },
+    { "key": "drinks", "label": "Drinks" }
+  ],
+  "reward_title": "A treat on us",
+  "reward_threshold": 6,
+  "source_url": null,
+  "status": "draft",
+  "menu": [
+    { "category_key": "plates", "section": "Lunch", "title": "Crispy chicken sandwich", "description": "Pickles, house sauce, soft bun", "price_cents": 1395 },
+    { "category_key": "plates", "section": "Lunch", "title": "Garden bowl", "description": "Seasonal greens, grains, lemon", "price_cents": 1250 },
+    { "category_key": "drinks", "section": "Sips", "title": "Fresh lemonade", "description": "Made in house", "price_cents": 425 }
+  ]
+}

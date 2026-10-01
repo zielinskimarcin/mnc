@@ -1,0 +1,45 @@
+{
+  "slug": "shirleys-bakery-cafe",
+  "display_name": "Shirley's",
+  "tagline": "Bakery & Café · Made fresh daily in Provo",
+  "logo_url": "https://i0.wp.com/shirleysbakerycafe.com/wp-content/uploads/2022/02/1396289938.png?fit=204%2C136&ssl=1",
+  "hero_image_url": null,
+  "font_preset": "editorial",
+  "colors": {
+    "background": "#F7F3E8",
+    "surface": "#FFFDF7",
+    "text": "#17150F",
+    "muted": "#6F6651",
+    "accent": "#000000",
+    "accentText": "#D6BB72"
+  },
+  "categories": [
+    { "key": "bakery", "label": "BAKERY" },
+    { "key": "cafe", "label": "CAFÉ" },
+    { "key": "drinks", "label": "DRINKS" }
+  ],
+  "reward_title": "Concept reward — sweet roll",
+  "reward_threshold": 10,
+  "source_url": "https://shirleysbakerycafe.com/bakery-menu/",
+  "status": "draft",
+  "menu": [
+    { "category_key": "bakery", "section": "Sweet Rolls", "title": "Sweet Rolls — 4 pack", "description": null, "price_cents": 999 },
+    { "category_key": "bakery", "section": "Sweet Rolls", "title": "Giant Sweet Roll", "description": null, "price_cents": 399 },
+    { "category_key": "bakery", "section": "Sweet Rolls", "title": "Cinnamon Knot", "description": null, "price_cents": 279 },
+    { "category_key": "bakery", "section": "Sweet Rolls", "title": "Cinnamon Walnut Twist", "description": null, "price_cents": 279 },
+    { "category_key": "bakery", "section": "Cookies & Pastries", "title": "Chocolate Chip Cookie", "description": "Each", "price_cents": 149 },
+    { "category_key": "bakery", "section": "Cookies & Pastries", "title": "Sugar Cookie", "description": "Each", "price_cents": 279 },
+    { "category_key": "bakery", "section": "Cookies & Pastries", "title": "Cream Puff", "description": "Each", "price_cents": 199 },
+    { "category_key": "bakery", "section": "Cookies & Pastries", "title": "Éclair", "description": "Each", "price_cents": 249 },
+    { "category_key": "bakery", "section": "Cookies & Pastries", "title": "Fudge Brownie", "description": "Each", "price_cents": 399 },
+    { "category_key": "cafe", "section": "Breakfast", "title": "Breakfast Croissant", "description": "Ham, mozzarella, turkey, bacon, tomato and spinach", "price_cents": 539 },
+    { "category_key": "cafe", "section": "Breakfast", "title": "Bacon, Egg and Cheese", "description": "On a croissant", "price_cents": 539 },
+    { "category_key": "cafe", "section": "Sandwiches", "title": "Turkey Bacon Avocado", "description": "Focaccia, turkey, bacon, provolone and avocado", "price_cents": 949 },
+    { "category_key": "cafe", "section": "Sandwiches", "title": "Chicken Bacon Ranch Panini", "description": "Chicken, mozzarella, bacon and ranch", "price_cents": 949 },
+    { "category_key": "cafe", "section": "Sandwiches", "title": "Grilled Cheese", "description": "French bread with three cheeses", "price_cents": 849 },
+    { "category_key": "cafe", "section": "Salads", "title": "Cobb Salad", "description": "Chicken, bacon, egg and avocado with ranch", "price_cents": 999 },
+    { "category_key": "drinks", "section": "Drinks", "title": "Coffee", "description": null, "price_cents": 449 },
+    { "category_key": "drinks", "section": "Drinks", "title": "Hot Chocolate", "description": null, "price_cents": 449 },
+    { "category_key": "drinks", "section": "Drinks", "title": "Handcrafted Italian Soda", "description": "24 oz.", "price_cents": 449 }
+  ]
+}

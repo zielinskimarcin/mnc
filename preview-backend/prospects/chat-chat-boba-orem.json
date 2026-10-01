@@ -1,0 +1,33 @@
+{
+  "slug": "chat-chat-boba-orem",
+  "display_name": "Chat Chat Boba",
+  "tagline": "Orem boba drinks & smoothie cafe",
+  "logo_url": "https://static.wixstatic.com/media/d33318_db7757c6907149cb817139138047848e~mv2.png",
+  "hero_image_url": null,
+  "font_preset": "rounded",
+  "design_preset": "chatchat",
+  "colors": {
+    "background": "#FCF8E6",
+    "surface": "#E8FFED",
+    "text": "#101010",
+    "muted": "#414141",
+    "accent": "#FFB1F1",
+    "accentText": "#101010"
+  },
+  "categories": [
+    { "key": "fruit", "label": "Fruity" },
+    { "key": "creamy", "label": "Creamy" }
+  ],
+  "reward_title": "Your next boba treat is ready!",
+  "reward_threshold": 10,
+  "source_url": "https://www.doordash.com/store/chat-chat-boba-orem-40788411/",
+  "status": "draft",
+  "menu": [
+    { "category_key": "fruit", "section": "Fruity favorites", "title": "Mango", "description": null, "price_cents": 499 },
+    { "category_key": "fruit", "section": "Fruity favorites", "title": "Passion Fruit", "description": null, "price_cents": 499 },
+    { "category_key": "fruit", "section": "Fruity favorites", "title": "Mangonada", "description": null, "price_cents": 649 },
+    { "category_key": "creamy", "section": "Creamy favorites", "title": "Taro", "description": null, "price_cents": 499 },
+    { "category_key": "creamy", "section": "Creamy favorites", "title": "Banana", "description": null, "price_cents": 599 },
+    { "category_key": "creamy", "section": "Creamy favorites", "title": "Chocolate Banana", "description": null, "price_cents": 649 }
+  ]
+}

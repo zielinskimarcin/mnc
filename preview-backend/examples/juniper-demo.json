@@ -1,0 +1,29 @@
+{
+  "slug": "juniper-demo",
+  "display_name": "Juniper Coffee",
+  "tagline": "Slow mornings, good coffee.",
+  "logo_url": null,
+  "hero_image_url": null,
+  "font_preset": "editorial",
+  "colors": {
+    "background": "#F5F2EA",
+    "surface": "#FFFFFF",
+    "text": "#252C23",
+    "muted": "#6F756D",
+    "accent": "#315E45",
+    "accentText": "#FFFFFF"
+  },
+  "categories": [
+    { "key": "coffee", "label": "Coffee" },
+    { "key": "food", "label": "Bakery" }
+  ],
+  "reward_title": "A coffee on us",
+  "reward_threshold": 8,
+  "source_url": null,
+  "status": "draft",
+  "menu": [
+    { "category_key": "coffee", "section": "Espresso bar", "title": "Honey oat latte", "description": "Espresso, oat milk, local honey", "price_cents": 625 },
+    { "category_key": "coffee", "section": "Espresso bar", "title": "Cappuccino", "description": "Double espresso, steamed milk", "price_cents": 525 },
+    { "category_key": "food", "section": "From the case", "title": "Almond croissant", "description": "Baked fresh every morning", "price_cents": 475 }
+  ]
+}

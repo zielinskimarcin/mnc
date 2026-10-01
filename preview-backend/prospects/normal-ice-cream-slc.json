@@ -1,0 +1,51 @@
+{
+  "slug": "normal-ice-cream-slc",
+  "display_name": "Normal Ice Cream",
+  "tagline": "Ice cream that’s anything but ordinary",
+  "logo_url": null,
+  "hero_image_url": "https://www.normal.club/media_1288b52f4176de11e4b94384c1005319f46ebfd0a.jpg?format=jpg&optimize=medium&width=750",
+  "font_preset": "editorial",
+  "design_preset": "normal",
+  "colors": {
+    "background": "#E0E3FF",
+    "surface": "#FFFCF3",
+    "text": "#0B21E0",
+    "muted": "#4052BC",
+    "accent": "#0B21E0",
+    "accentText": "#FFFCF3"
+  },
+  "categories": [
+    { "key": "soft-serve", "label": "Soft serve" },
+    { "key": "composed-cones", "label": "Composed cones" },
+    { "key": "drinks", "label": "Drinks" },
+    { "key": "take-home", "label": "Take home" }
+  ],
+  "reward_title": "A sweet reward is ready!",
+  "reward_threshold": 10,
+  "source_url": "https://www.normal.club/store",
+  "status": "draft",
+  "menu": [
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Salted vanilla bean", "description": "Normal size · half size $4", "price_cents": 600 },
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Chocolate milk", "description": "Normal size · half size $4", "price_cents": 600 },
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Green apple", "description": "Normal size · half size $4", "price_cents": 600 },
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Salted caramel", "description": "Normal size · half size $4", "price_cents": 600 },
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Sweet corn", "description": "Normal size · half size $4", "price_cents": 600 },
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Blueberry", "description": "Normal size · half size $4", "price_cents": 600 },
+    { "category_key": "soft-serve", "section": "Soft serve", "title": "Pup cup", "description": "A little treat for your pup", "price_cents": 300 },
+    { "category_key": "composed-cones", "section": "Composed cones", "title": "Is it fair?", "description": "Sweet corn soft serve, passion fruit caramel, fruity pebbles, cotton candy · half $6.50", "price_cents": 850 },
+    { "category_key": "composed-cones", "section": "Composed cones", "title": "Caramel apple", "description": "Green apple & salted caramel twist, apple butter, sour sherbet · half $6.50", "price_cents": 850 },
+    { "category_key": "composed-cones", "section": "Composed cones", "title": "Blueberry almond crumble", "description": "Blueberry soft serve, almond butter, oat streusel, coconut whipped cream · half $6.50", "price_cents": 850 },
+    { "category_key": "composed-cones", "section": "Composed cones", "title": "Pretzel stand", "description": "Salted vanilla bean, crushed pretzels, salted caramel, Maldon salt · half $6.50", "price_cents": 850 },
+    { "category_key": "composed-cones", "section": "Composed cones", "title": "Rocky road", "description": "Chocolate milk, candied almonds, marshmallow drizzle, whipped cream · half $6.50", "price_cents": 850 },
+    { "category_key": "drinks", "section": "Coffee & floats", "title": "A normal® latte", "description": "12 oz · 8 oz $4.50 · 16 oz $6", "price_cents": 500 },
+    { "category_key": "drinks", "section": "Coffee & floats", "title": "Cold brew", "description": "12 oz · 8 oz $4 · add soft serve +$2", "price_cents": 500 },
+    { "category_key": "drinks", "section": "Coffee & floats", "title": "Affogato", "description": "8 oz · espresso and your choice of soft serve", "price_cents": 700 },
+    { "category_key": "drinks", "section": "Coffee & floats", "title": "A normal® matcha latte", "description": "12 oz · 8 oz $5.50 · 16 oz $7", "price_cents": 600 },
+    { "category_key": "drinks", "section": "Coffee & floats", "title": "Sweet corn cold brew float", "description": "12 oz · sweet corn soft serve and cold brew", "price_cents": 700 },
+    { "category_key": "take-home", "section": "Forever bars", "title": "Handle bar", "description": "Salted maple ice cream, dark chocolate dip, brown butter crumb", "price_cents": 600 },
+    { "category_key": "take-home", "section": "Forever bars", "title": "Little shortie", "description": "Strawberry milk ice cream, strawberry dip, shortbread cookie crumb", "price_cents": 600 },
+    { "category_key": "take-home", "section": "Forever sandos", "title": "The norm", "description": "Chocolate chip cookie and sweet cream ice cream", "price_cents": 600 },
+    { "category_key": "take-home", "section": "Forever pints", "title": "Butter berry", "description": "Strawberry milk ice cream, mallow fluff, brown butter milk crumb", "price_cents": 1200 },
+    { "category_key": "take-home", "section": "Forever pints", "title": "Salted vanilla bean", "description": "Real vanilla bean and sea salt", "price_cents": 1200 }
+  ]
+}
