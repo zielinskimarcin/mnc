@@ -7,7 +7,7 @@ enabled = true
 enabled = true
 enable_anonymous_sign_ins = true
 site_url = "http://localhost:5173"
-additional_redirect_urls = ["http://localhost:5173/**", "http://127.0.0.1:5173/**"]
+additional_redirect_urls = ["http://localhost:5173/**", "http://127.0.0.1:5173/**", "https://smaklo.com/admin/**", "https://smaklo.com/admin"]
 
 [auth.email]
 # Supabase maps this switch to the email provider itself; disabling it also
